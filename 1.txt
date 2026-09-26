@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Saif | Video Editor & Viral Content Specialist</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            max-width: 650px;
+            width: 100%;
+            background: #1e1e1e;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+        }
+        h1 { color: #ffffff; margin-bottom: 5px; }
+        h2 { color: #f39c12; font-size: 1.2rem; margin-top: 25px; border-bottom: 1px solid #333; padding-bottom: 8px; }
+        p { color: #ccc; line-height: 1.6; }
+        .stats {
+            background: #2a2a2a;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+        .stats li { margin-bottom: 8px; color: #e0e0e0; }
+        .btn {
+            display: inline-block;
+            background: #f39c12;
+            color: #000;
+            padding: 12px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 10px;
+            transition: 0.3s;
+        }
+        .btn:hover { background: #d35400; color: #fff; }
+        .video-card {
+            background: #252525;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        a { color: #f39c12; text-decoration: none; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Ahmed Saif El-Din</h1>
+    <p style="color: #f39c12; font-weight: bold;">Short-Form Video Editor & Viral Content Specialist</p>
+    <p>Helped creators and brands generate millions of organic views through high-retention short-form edits and strategic storytelling.</p>
+
+    <h2>Key Achievements & Impact</h2>
+    <div class="stats">
+        <ul>
+            <li><strong>10M+ Total Views</strong> generated in under 2 months.</li>
+            <li><strong>Top Campaign Creator</strong> on Whop.</li>
+            <li><strong>1M+ Views</strong> single video milestone.</li>
+        </ul>
+    </div>
+
+    <h2>Featured Viral Work</h2>
+    <div class="video-card">
+        <div>
+            <strong>Whop Campaign Edit #1</strong>
+            <p style="margin: 3px 0 0 0; font-size: 0.85rem; color: #aaa;">1.2M+ Views</p>
+        </div>
+        <!-- احرص على تغيير اللينك بالأسفل للينك الفيديو الحقيقي -->
+        <a href="https://instagram.com" target="_blank" class="btn">Watch Video</a>
+    </div>
+
+    <h2>Services & Skills</h2>
+    <p>• Short-Form Video Editing (TikTok, IG Reels, YT Shorts)<br>
+    • Dynamic Captions, Sound FX & Color Grading<br>
+    • Retention & Hook Optimization (CapCut Pro Expert)</p>
+
+    <h2>Let's Work Together</h2>
+    <p>Ready to scale your reach and turn your content viral?</p>
+    <!-- استبدل الإيميل هنا بإيميلك -->
+    <a href="mailto:your-email@gmail.com" class="btn">Get In Touch</a>
+</div>
+
+</body>
+</html>
